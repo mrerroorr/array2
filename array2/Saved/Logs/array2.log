@@ -1218,3 +1218,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.06-20.54.46:145][134]AssetCheck: New page: Asset Save: multiple assets
 [2024.06.06-20.54.46:145][134]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2024.06.06-20.54.46:145][134]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.06-20.55.19:920][895]BlueprintLog: New page: Compile Minimal_Default
+[2024.06.06-20.55.19:953][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.06.06-20.55.20:512][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.06.06-20.55.20:817][950]LogSavePackage: Moving '../../../../../uni/daneshgah/array2/array2/Saved/Minimal_Default79D2642044EDA3E070D13C857B5A7130.tmp' to '../../../../../uni/daneshgah/array2/array2/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.06-20.55.20:819][950]LogFileHelpers: Saving map 'Minimal_Default' took 0.325
+[2024.06.06-20.55.20:835][950]AssetCheck: New page: Asset Save: Minimal_Default
+[2024.06.06-20.55.20:835][950]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.06.06-20.55.21:811][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.06.06-20.55.21:827][ 57]LogSavePackage: Moving '../../../../../uni/daneshgah/array2/array2/Saved/Minimal_Default123884304E03C181421DDA92EECEC8D7.tmp' to '../../../../../uni/daneshgah/array2/array2/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.06.06-20.55.21:858][ 57]LogSavePackage: Moving '../../../../../uni/daneshgah/array2/array2/Saved/Minimal_Default_BuiltDataACED21FA4970A66B6211EAB0D97A8ECA.tmp' to '../../../../../uni/daneshgah/array2/array2/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.06.06-20.55.21:871][ 57]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.06-20.55.21:871][ 57]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.06.06-20.55.21:871][ 57]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
